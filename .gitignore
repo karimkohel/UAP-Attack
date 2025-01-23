@@ -173,3 +173,6 @@ cython_debug/
 
 # Custom
 GTSRB_Final*/
+*overflow*
+dataset/images
+dataset/labels
