@@ -176,3 +176,6 @@ GTSRB_Final*/
 *overflow*
 dataset/images
 dataset/labels
+*ppm
+*.png
+*.PNG

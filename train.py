@@ -15,7 +15,7 @@ def main():
     model.train(
         data=data_yaml,   # path to our GTSRB YAML
         imgsz=640,        # can adjust image size
-        epochs=20,        # for demonstration, might need more
+        epochs=10,        # for demonstration, might need more
         batch=8,          # adjust based on your GPU memory
         name="gtsrb_surrogate",  # experiment name
         amp=False,        # mixed precision training
